@@ -10,3 +10,4 @@ Update Liferay Home path in pom.xml file.
 * `mvnw clean install`
 * `mvnw bundle-support:deploy`
 ## Documentation 
+* http://www.liferaysavvy.com/2020/03/liferay-clay-form-elements-tag-libraries.html
